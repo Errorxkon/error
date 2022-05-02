@@ -1,0 +1,7 @@
+x=input("lee lr!")
+y=input("in lee bal")
+
+x=int(x)
+y=int(y)
+
+print(x*y)
